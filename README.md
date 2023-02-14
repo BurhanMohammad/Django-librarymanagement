@@ -116,7 +116,7 @@ This project is built with :
 >'http://localhost:8000/'
 ## 3 . Sign up for a new account or log in with an existing one.
 
-## 4. AAdd some books to the library.
+## 4. Add some books to the library.
 
 ## 5. Borrow and return books as needed.
 
